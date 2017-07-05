@@ -3,6 +3,7 @@ import telegram
 import ConfigParser
 import requests
 import json
+import CardFunctions as gs
 from telegram.ext import Updater,CommandHandler,MessageHandler,Filters
 
 
